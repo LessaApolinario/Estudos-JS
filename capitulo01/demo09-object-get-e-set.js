@@ -26,4 +26,4 @@ console.log(pessoa.nome)
 pessoa.idade = 16
 // Usando propriedade calculada
 console.log(pessoa.podeDirigir)
-console.log(pessoa.idade) // undefined, porque não get para retornar a idade
+console.log(pessoa.idade) // undefined, porque não há get para retornar a idade
