@@ -1,4 +1,3 @@
-const { rejects } = require('assert')
 const readline = require('readline')
 const terminal = readline.createInterface({
   input: process.stdin,
